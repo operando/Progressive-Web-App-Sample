@@ -8,10 +8,6 @@
     "background_color": "#fff",
     "theme_color": "#29dfee",
     "prefer_related_applications": true,
-    "related_applications": [{
-        "platform": "play",
-        "id": "com.kouzoh.mercari"
-    }],
     "icons": [{
             "src": "images/android-chrome-144x144.png",
             "sizes": "144x144",
