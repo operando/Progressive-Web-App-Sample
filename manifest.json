@@ -1,8 +1,11 @@
 {
     "name": "Progressive Web App Sample",
     "short_name": "PWA Sample",
+    "description": "Progressive Web App Sample",
     "start_url": "./?app=true",
     "orientation": "portrait",
+    "display": "fullscreen",
+    "background_color": "#fff",
     "theme_color": "#29dfee",
     "prefer_related_applications": true,
     "related_applications": [{
