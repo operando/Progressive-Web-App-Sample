@@ -1,0 +1,27 @@
+{
+    "name": "Progressive Web App Sample",
+    "short_name": "PWA Sample",
+    "start_url": "./?app=true",
+    "orientation": "portrait",
+    "theme_color": "#29dfee",
+    "prefer_related_applications": true,
+    "related_applications": [{
+        "platform": "play",
+        "id": "com.kouzoh.mercari"
+    }],
+    "icons": [{
+            "src": "images/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }, {
+            "src": "images/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
